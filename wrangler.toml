@@ -1,0 +1,8 @@
+name = "cacombos-api-v1-proxy"
+type = 'webpack'
+account_id = ''
+route = 'https://cacombos.com/api/v1/*'
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"

@@ -1,0 +1,19 @@
+{
+  "name": "cacombos-api-v1-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cloudworker-proxy": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cacombos/cacombos-api-v1-proxy.git"
+  },
+  "author": "cacombos",
+  "license": "ISC"
+}
